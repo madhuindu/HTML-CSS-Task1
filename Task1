@@ -1,0 +1,14 @@
+html>
+    <head>
+        <h1>Task1</h1>
+    </head>
+    <body>
+        <div style="margin: 20%; padding: 20%; text-align: center;">
+        <div style="background:red">This is first division</div>
+        <div style="background:green;">This is second division</div>
+        <div style="background:yellow;">This is third division</div>
+        <div style="background:pink";>"This is fourth division</div>
+        <div style="background:blue;">This is fivth division</div>
+        </div>
+    </body>
+</html>
